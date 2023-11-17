@@ -1,6 +1,6 @@
 import { ReactNode } from "react";
 
-const Page = ({ children }: { children: ReactNode }) => {
+const Page = () => {
   return <h2>Dashboard Page</h2>;
 };
 
